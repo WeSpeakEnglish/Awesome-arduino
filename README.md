@@ -133,6 +133,7 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [LinkedList](https://github.com/ivanseidel/LinkedList) - A fully implemented LinkedList made to work with Arduino projects
 * [VirtualUsbKeyboard](https://github.com/practicalarduino/VirtualUsbKeyboard) - Virtual an Arduino as a HID device
 * [virtual-shields-arduino](https://github.com/ms-iot/virtual-shields-arduino) - Windows Virtual Shields for Arduino library
+* [ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - A lightweight, universal C++ library designed for task management in IoT and embedded applications, with a focus on keeping interrupts fast
 
 *3D Printer .*
 
